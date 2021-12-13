@@ -10,6 +10,9 @@ The menu can be retrieve throught the following API call :
 GET /api/Menu/parameterInBase64
 ```
 
+On the following URL :
+[clients.eurest.ch](https://clients.eurest.ch)
+
 The parameter of the API looks like the example below encoded in Base64 :
 
 ```
@@ -28,7 +31,7 @@ The script needs the jq command line tool :
 
 The script must have the execution permissions :
 ```bash
-chmod +x ./scoop.sh
+$ chmod +x ./scoop.sh
 ```
 
 ## Usage ##
