@@ -7,7 +7,7 @@ This script allows to retrieve and display the menu of the restaurant "Le scoop"
 The menu can be retrieve throught the following API call :
 
 ```http
-GET https://clients.eurest.ch/api/Menu/parameterInBase64
+GET /api/Menu/parameterInBase64
 ```
 
 The parameter of the API looks like the example below encoded in Base64 :
