@@ -28,7 +28,7 @@ The script needs the jq command line tool :
 
 The script must have the execution permissions :
 ```bash
-$ chmod +x ./scoop.sh
+chmod +x ./scoop.sh
 ```
 
 ## Usage ##
